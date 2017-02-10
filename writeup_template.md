@@ -15,15 +15,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/car_not_car.png
-[image2]: ./output_images/vehicle_hog.jpg
+[image2]: ./output_images/vehicle_hog.png
 [image2_1]: ./output_images/non-vehicle_hog.png
 [image3]: ./output_images/test_5_bb.png
-[image4]: ./output_images/test_5_final.png
+[image4]: ./output_images/test5_final.png
 [image4_1]: ./output_images/test1_final.png
 [image4_2]: ./output_images/test3_final.png
-[image5]: ./output_images/test_5_hm.png
+[image5]: ./output_images/test5_hm.png
 [image6]: ./examples/labels_map.png
-[image7]: ./output_images/test_5_final.png
+[image7]: ./output_images/test5_final.png
 [video1]: ./project_video.mp4
 ---
 ###Writeup / README
